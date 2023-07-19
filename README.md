@@ -49,6 +49,7 @@ git clone --depth=1 https://ghproxy.com/https://github.com/XiaojiumiaoWu/Jiu-Yun
 ```
 cd Miao-Yunzai
 ```
+```
 git clone --depth=1 https://ghproxy.com/https://github.com/yoimiya-kokomi/miao-plugin.git ./plugins/miao-plugin/
 ```
 
