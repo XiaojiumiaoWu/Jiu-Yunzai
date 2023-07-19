@@ -13,6 +13,7 @@ https://yshs.lanzouy.com/b09zk5u1g    --------密码0000
 ```
 依次安装-node-v16.17.0-x64(先解压）-Git-2.37.2.2-64-bit.exe。无脑一只下一步「Next」
 ```
+```
 **【注意】：** 由于是独立新的仓库，【只建议新部署/部署后迁移】，不建议原Bot直接换源强更
 
 * **一些新特性：** Miao-Yunzai会逐步重构，增加新特性与功能，可能会有功能与形态上的变化。如期望功能更加稳定可使用此仓库[Yunzai-V3](https://gitee.com/yoimiya-kokomi/Yunzai-Bot)
