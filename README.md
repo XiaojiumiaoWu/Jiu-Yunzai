@@ -1,6 +1,6 @@
-# Miao-Yunzai v3
+# Jiu-Yunzai v3
 
-基于乐神版[云崽v3.0](https://gitee.com/le-niao/Yunzai-Bot) 改造
+基于[云崽v3.0](https://gitee.com/le-niao/Yunzai-Bot) 改造
 
 需要同时安装[miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin.git) ，且后续的一些底层改造可能会改变数据结构，无法直接迁回原版Yunzai，请根据自己需求情况慎重安装
 
@@ -21,7 +21,7 @@ https://yshs.lanzouy.com/b09zk5u1g    --------密码0000
   环境。附加[Gitee](https://gitee.com/yoimiya-kokomi/Miao-Yunzai.git)
 * **默认启用喵版的功能：** 【#角色】【#深渊】【#帮助】等功能默认启用喵版，原版的逻辑会屏蔽，以便于后续逐步精简资源
 
-## Miao-Yunzai后续计划
+## Jiu-Yunzai后续计划
 
 先刨坑，但也许会咕咕咕
 
