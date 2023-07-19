@@ -7,9 +7,11 @@
 使用[icqq](https://github.com/icqqjs/icqq) 登录，防止oicq可能出现的低版本问题
 
 ---
-请先安装依赖     ------redis-windows-7.0.4文件不用安装
+请先安装依赖     ------redis-windows-7.0.4，YzLauncher-windows文件不用下载安装
 ```
 https://yshs.lanzouy.com/b09zk5u1g    --------密码0000
+```
+依次安装-node-v16.17.0-x64(先解压）-Git-2.37.2.2-64-bit.exe。无脑一只下一步「Next」
 ```
 **【注意】：** 由于是独立新的仓库，【只建议新部署/部署后迁移】，不建议原Bot直接换源强更
 
