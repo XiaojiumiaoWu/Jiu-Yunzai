@@ -7,8 +7,10 @@
 使用[icqq](https://github.com/icqqjs/icqq) 登录，防止oicq可能出现的低版本问题
 
 ---
-与原版Yunzai-Bot的差异：
-
+请先安装依赖
+```
+https://yshs.lanzouy.com/b09zk5u1g    --------密码0000
+```
 **【注意】：** 由于是独立新的仓库，【只建议新部署/部署后迁移】，不建议原Bot直接换源强更
 
 * **一些新特性：** Miao-Yunzai会逐步重构，增加新特性与功能，可能会有功能与形态上的变化。如期望功能更加稳定可使用此仓库[Yunzai-V3](https://gitee.com/yoimiya-kokomi/Yunzai-Bot)
@@ -120,3 +122,4 @@ linux环境，其他环境请自行探索
 |      [西风驿站](https://bbs.mihoyo.com/ys/collection/839181)      | 角色攻略图来源          |
 |     [米游社友人A](https://bbs.mihoyo.com/ys/collection/428421)     | 角色突破素材图来源        |
 | [icqq](https://github.com/icqqjs/icqq) | ICQQ             |
+|[可选插件库](https://gitee.com/yhArcadia/Yunzai-Bot-plugins-index) | 额外插件库按需求安装             |
