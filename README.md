@@ -115,7 +115,7 @@ linux环境，其他环境请自行探索
 
 |                           Nickname                            | Contribution     |
 |:-------------------------------------------------------------:|------------------|
-|      [Yunzai v3.0](https://gitee.com/le-niao/Yunzai-Bot)      | 乐神的Yunzai-Bot V3 |
+|      [Yunzai v3.0](https://gitee.com/le-niao/Yunzai-Bot)      | Yunzai-Bot V3 |
 | [GardenHamster](https://github.com/GardenHamster/GenshinPray) | 模拟抽卡背景素材来源       |
 |      [西风驿站](https://bbs.mihoyo.com/ys/collection/839181)      | 角色攻略图来源          |
 |     [米游社友人A](https://bbs.mihoyo.com/ys/collection/428421)     | 角色突破素材图来源        |
