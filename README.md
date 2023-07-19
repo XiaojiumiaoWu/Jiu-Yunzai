@@ -7,7 +7,7 @@
 使用[icqq](https://github.com/icqqjs/icqq) 登录，防止oicq可能出现的低版本问题
 
 ---
-请先安装依赖
+请先安装依赖     ------redis-windows-7.0.4文件不用安装
 ```
 https://yshs.lanzouy.com/b09zk5u1g    --------密码0000
 ```
@@ -39,7 +39,7 @@ https://yshs.lanzouy.com/b09zk5u1g    --------密码0000
 
 > 环境准备： Windows or Linux，Node.js（ [版本至少v16以上](http://nodejs.cn/download/) ）， [Redis](https://redis.io/docs/getting-started/installation/ )
 
-1.克隆项目并安装miao-plugin
+1.新建文件夹，克隆项目并安装miao-plugin
 
 请根据网络情况选择Github安装或Gitee安装
 
